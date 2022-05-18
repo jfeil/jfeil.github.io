@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy Policy"
+permalink: /privacy-policy/
+
 **Privacy Policy**
 
 Jan Feil built the DFBnet Voreinteilungen app as a Free app. This SERVICE is provided by Jan Feil at no cost and is intended for use as is.
